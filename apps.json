@@ -1,13 +1,13 @@
 {
-    "name": "AltStore Demo Source",
-    "identifier": "com.rileytestut.AltStore.Demo",
+    "name": "Ayaltstore",
+    "identifier": "com.jy1263.Ayalstore",
     "apps": [
       {
-        "name": "GBA4iOS",
-        "bundleIdentifier": "com.rileytestut.GBA4iOS",
-        "developerName": "Riley Testut",
-        "subtitle": "Game Boy games in your pocket.",
-        "version": "2.1",
+        "name": "Unc0ver",
+        "bundleIdentifier": "science.xnu.undecimus",
+        "developerName": "pwn20wnd",
+        "subtitle": "Jailbreak.",
+        "version": "4.3.1",
         "versionDate": "2020-03-24T14:30:00-07:00",
         "versionDescription": "Initial AltStore release!",
         "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
@@ -25,7 +25,7 @@
     ],
     "news": [
       {
-        "title": "GBA4iOS Now Available",
+        "title": "Unc0ver Now Available",
         "identifier": "gba4ios-available-download-demo",
         "caption": "Download today from the Demo source.",
         "tintColor": "78209d",
