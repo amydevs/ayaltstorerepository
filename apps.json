@@ -10,9 +10,9 @@
       "version": "2.1",
       "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "Initial AltStore release!",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/demo/GBA4iOS.ipa",
+      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
       "localizedDescription": "Just Unc0ver",
-      "iconURL": "/icons/unc0vericon.png",
+      "iconURL": "https://raw.githubusercontent.com/jy1263/ayaltstorerepository/master/icons/unc0vericon.png",
       "tintColor": "78209d",
       "size": 7924507,
       "screenshotURLs": [
