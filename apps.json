@@ -12,7 +12,7 @@
       "versionDescription": "Initial AltStore release!",
       "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/demo/GBA4iOS.ipa",
       "localizedDescription": "Just Unc0ver",
-      "iconURL": "https://iosninja.io/img/ipas/gba4ios.png",
+      "iconURL": "/icons/unc0vericon.png",
       "tintColor": "78209d",
       "size": 7924507,
       "screenshotURLs": [
